@@ -1,4 +1,4 @@
-import {PI, sumar, numeros} from '/modules/Matematicas.js';
+import {PI, sumar, numeros} from './modules/matematica.js';
 let total, numero1=10, numero2=20;
 console.clear();
 console.log(`La constante PI vale '${PI}'`);
