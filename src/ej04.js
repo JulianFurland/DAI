@@ -1,6 +1,6 @@
 import fs from 'fs';
-const ARCHIVO_ENTRADA = "./src/archivoentrada.txt";
-const ARCHIVO_SALIDA = "./src/archivosalida.txt";
+const ARCHIVO_ENTRADA = "./archivoentrada.txt";
+const ARCHIVO_SALIDA = "./archivosalida.txt";
 copiar(ARCHIVO_ENTRADA,ARCHIVO_SALIDA);
 
 function callback(err) {

@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/JulianFurland/DAITP2/issues"
   },
-  "homepage": "https://github.com/JulianFurland/DAITP2#readme"
+  "homepage": "https://github.com/JulianFurland/DAITP2#readme",
+  "dependencies": {
+    "currency-map-country": "^1.0.12"
+  }
 }
